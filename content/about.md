@@ -9,7 +9,7 @@ featured_image: ../assets/images/featured/featured-img-placeholder.png
 
 # About Chishiki.AI
 
-Welcome to Chishiki.AI, a transformative project at the forefront of integrating Artificial Intelligence (AI) with Civil and Environmental Engineering (CEE). Chishiki.AI, meaning 'knowledge through AI,' is a pioneering initiative funded by the National Science Foundation and led by a team of experts at the University of Texas at Austin.
+Welcome to Chishiki.AI, a transformative project at the forefront of integrating Artificial Intelligence (AI) with Civil and Environmental Engineering (CEE). Chishiki.AI, meaning 'knowledge through AI,' is a pioneering initiative funded by the National Science Foundation and led by a team of experts at the University of Texas at Austin in collaboration with Cornell University.
 
 ## Our Vision and Mission
 
@@ -37,7 +37,7 @@ Chishiki.AI is committed to developing groundbreaking AI applications in CEE. Ou
 
 ## Community Impact
 
-Our goal is to impact over 500 CIPs nationwide and train more than 300,000 users globally. We are dedicated to democratizing access to AI-enhanced CI innovations and ensuring broad adoption across the CEE sector.
+Our goal is to impact over 500 CIPs nationwide and train more than 300,000 users globally through the Cornell Virtual Workshop platform. We are dedicated to democratizing access to AI-enhanced CI innovations and ensuring broad adoption across the CEE sector.
 
 ## Partners
 

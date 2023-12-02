@@ -50,7 +50,7 @@ params:
   authorimage: ../assets/images/global/ai.png
   og_image: /images/future-cities.png
   moto: "AI-powered Civil Engineering Community"
-  description: "NSF has awarded a $7 million grant to Chishiki.ai, an innovative project spearheaded by the University of Texas at Austin. Chishiki.ai is a groundbreaking initiative designed to revolutionize the field of Civil and Environmental Engineering (CEE) through the integration of artificial intelligence (AI)."
+  description: "NSF has awarded a $7 million grant to Chishiki.ai, an innovative project spearheaded by the University of Texas at Austin in collaboration with Cornell University. Chishiki.ai is a groundbreaking initiative designed to revolutionize the field of Civil and Environmental Engineering (CEE) through the integration of artificial intelligence (AI)."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 

@@ -1212,10 +1212,6 @@ video {
   margin-top: 2rem;
 }
 
-.mt-4 {
-  margin-top: 1rem;
-}
-
 .block {
   display: block;
 }
@@ -1276,10 +1272,6 @@ video {
   height: 100%;
 }
 
-.h-32 {
-  height: 8rem;
-}
-
 .w-0 {
   width: 0px;
 }
@@ -1306,10 +1298,6 @@ video {
 
 .w-full {
   width: 100%;
-}
-
-.w-32 {
-  width: 8rem;
 }
 
 .max-w-2xl {
@@ -1426,10 +1414,6 @@ video {
   gap: 2rem;
 }
 
-.gap-6 {
-  gap: 1.5rem;
-}
-
 .space-x-1 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(0.25rem * var(--tw-space-x-reverse));
@@ -1535,7 +1519,7 @@ video {
 
 .bg-primary-600 {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(128 0 128 / var(--tw-bg-opacity));
 }
 
 .bg-transparent {
@@ -1838,7 +1822,7 @@ video {
 
 .text-primary-600 {
   --tw-text-opacity: 1;
-  color: rgb(48 52 236 / var(--tw-text-opacity));
+  color: rgb(128 0 128 / var(--tw-text-opacity));
 }
 
 .text-primary-900 {
@@ -1854,11 +1838,6 @@ video {
 .text-zinc-900 {
   --tw-text-opacity: 1;
   color: rgb(24 24 27 / var(--tw-text-opacity));
-}
-
-.text-gray-600 {
-  --tw-text-opacity: 1;
-  color: rgb(75 85 99 / var(--tw-text-opacity));
 }
 
 .text-opacity-40 {
@@ -2023,7 +2002,7 @@ EmojiSymbols;
 
 .hover\:bg-primary-600:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(128 0 128 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-primary-800:hover {
@@ -2043,7 +2022,7 @@ EmojiSymbols;
 
 .hover\:text-primary-600:hover {
   --tw-text-opacity: 1;
-  color: rgb(48 52 236 / var(--tw-text-opacity));
+  color: rgb(128 0 128 / var(--tw-text-opacity));
 }
 
 .hover\:text-white:hover {
@@ -2057,7 +2036,7 @@ EmojiSymbols;
 
 .focus\:bg-primary-600:focus {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(128 0 128 / var(--tw-bg-opacity));
 }
 
 .focus\:bg-primary-700:focus {
@@ -2263,10 +2242,6 @@ EmojiSymbols;
 
   .sm\:max-w-lg {
     max-width: 32rem;
-  }
-
-  .sm\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .sm\:px-0 {
@@ -2503,10 +2478,6 @@ EmojiSymbols;
 
   .lg\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .lg\:grid-cols-4 {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
   .lg\:items-start {
