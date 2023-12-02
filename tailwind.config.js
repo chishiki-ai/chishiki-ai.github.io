@@ -9,18 +9,18 @@ module.exports = {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        'primary': {
-          DEFAULT: '#6366F1',
-          50: '#FFFFFF',
-          100: '#F9F9FE',
-          200: '#D3D4FB',
-          300: '#AEAFF8',
-          400: '#888BF4',
-          500: '#6366F1',
-          600: '#3034EC',
-          700: '#1317D1',
-          800: '#0E119E',
-          900: '#0A0C6A'
+        'primary': { 
+          DEFAULT: '#800080', // Classic purple as the default
+          50: '#F2E6F2',     // Very light purple
+          100: '#E6CCE6',    // Lighter purple
+          200: '#CC99CC',    // Light purple
+          300: '#B266B2',    // Medium light purple
+          400: '#993399',    // Brighter purple
+          500: '#800080',    // Default classic purple
+          600: '#660066',    // Slightly darker
+          700: '#4C004C',    // Darker purple
+          800: '#330033',    // Even darker
+          900: '#190019'     // Darkest purple
         },
         'secondary': {
           DEFAULT: '#EC4899',
