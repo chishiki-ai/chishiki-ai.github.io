@@ -1,0 +1,135 @@
+baseURL: ''
+title: Chishiki-AI
+languageCode: en-us
+DefaultContentLanguage: en
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+canonifyURLs: true
+paginate: 9
+darkmode_js:
+  - assets/js/darkmode.js
+enableInlineShortcodes: true
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+params:
+  author: Chishiki
+  authorimage: ../assets/images/global/ai.png
+  og_image: /images/future-cities.png
+  moto: "AI-powered Civil Engineering Community"
+  description: "NSF has awarded a $7 million grant to Chishiki.ai, an innovative project spearheaded by the University of Texas at Austin. Chishiki.ai is a groundbreaking initiative designed to revolutionize the field of Civil and Environmental Engineering (CEE) through the integration of artificial intelligence (AI)."
+  disable_theme_toggle: false
+  disable_stay_uptodate: false
+
+  p1:
+    heading: "Vision"
+    image: "images/pages/mission.png"
+    content:
+      - text: "Chishiki-AI envisions establishing a robust Cyber Infrastructure Professional (CIP) Ecosystem that is the driving force behind AI innovations in Civil and Environmental Engineering (CEE). Our ambition is to create a collaborative environment where CIPs are the cornerstone of scientific and engineering domains, as well as regional collaborations that are defined by shared ambitions and challenges in integrating AI with CEE."
+  p4:    
+    heading: "Upcoming Events and Latest News"
+    content:
+      - text: "Latest news on courses, training and fellowships."
+  p5:
+    heading: "Stay Up to Date"
+    button: "Notify me"
+
+  social_media:
+    github:
+      enabled: true
+      url: 'https://github.com/chishiki-ai'
+    linkedin:
+      enabled: true
+      url: 'https://linkedin.com/p/chishiki-ai'
+    twitter:
+      enabled: true
+      url: '@chishiki-ai'
+    
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: fellowships
+      name: Fellowships
+      url: /posts/2023-news-fellowships/
+      weight: 20
+    - identifier: courses
+      name: Courses
+      url: /categories/courses/
+      weight: 30
+    - identifier: news
+      name: News
+      url: /categories/news/
+      weight: 40
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: Categories
+  tag: Tags
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: true
+    simple: false
+  twitter:
+    disable: true
+    enableDNT: true
+    simple: false
+  vimeo:
+    disable: true
+    enableDNT: true
+    simple: false
+  youtube:
+    disable: true
+    privacyEnhanced: true
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.104.0"
