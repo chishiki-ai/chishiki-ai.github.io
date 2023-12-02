@@ -39,6 +39,12 @@ Chishiki.AI is committed to developing groundbreaking AI applications in CEE. Ou
 
 Our goal is to impact over 500 CIPs nationwide and train more than 300,000 users globally. We are dedicated to democratizing access to AI-enhanced CI innovations and ensuring broad adoption across the CEE sector.
 
+## Partners
+
+* [Texas Advanced Computing Center - TACC](https://tacc.utexas.edu/)
+* [DesignSafe-CI](https://www.designsafe-ci.org/)
+* [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/)
+
 ## Join Us
 
 Chishiki.AI is more than just a project; it's a community dedicated to advancing the field of civil engineering with AI. We invite you to be a part of this exciting journey as we build a safer and more sustainable society through AI-enabled transformations in CEE​
