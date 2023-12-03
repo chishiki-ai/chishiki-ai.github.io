@@ -1,5 +1,4 @@
-<title itemprop="name">{{if .IsHome}} {{ $.Site.Params.description }} | {{ .Title }}
-    {{else}} {{ .Title }} | {{ .Site.Title }} {{end}}
+<title itemprop="name">{{ .Title }} | {{ .Site.Params.Moto }}
 </title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
 <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
