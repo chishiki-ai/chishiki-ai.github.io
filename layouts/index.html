@@ -120,6 +120,13 @@
                                         {{ .Params.summary }}
                                     </p>
                                 </div>
+                                {{ if and (in .Params.tags "Courses") (.Params.course_url) }}
+                                <button type="button" 
+                                    onclick="window.open('https://{{ .Params.course_url }}', '_blank')" 
+                                    class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
+                                    Launch course
+                                </button>
+                                {{ end }}  
                                 <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
                                     <span class="pr-2 font-black">Tags:</span>
                                     {{ range $elem_index, $elem_val := (.GetTerms "tags") }}

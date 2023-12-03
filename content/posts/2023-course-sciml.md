@@ -8,17 +8,16 @@ summary: Scientific ML for Engineers.
 description: Scientific ML for Engineers Course.
 author: Chishiki
 authorimage: ../assets/images/global/ai.png
-url:  kks32-courses.github.io/sciml
+course_url: kks32-courses.github.io/sciml
 categories: Courses
 tags: [Courses, SciML]
 ---
 
-<form action="https://kks32-courses.github.io/sciml" target="_blank">
-  <button type="submit" 
-          class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
-    Launch course
-  </button>
-</form>
+<button type="button" 
+        onclick="window.open('https://kks32-courses.github.io/sciml', '_blank')" 
+        class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
+  Launch course
+</button>
 
 
 ## Course outline
