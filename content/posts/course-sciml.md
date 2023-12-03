@@ -13,11 +13,13 @@ categories: Courses
 tags: [Courses, SciML]
 ---
 
-<button type="button" 
-        onclick="window.location.href='https://{{ .Params.url }}'" 
-        class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
-Launch course
-</button>
+<form action="https://kks32-courses.github.io/sciml" target="_blank">
+  <button type="submit" 
+          class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
+    Launch course
+  </button>
+</form>
+
 
 ## Course outline
 #### Basics of Machine Learning
