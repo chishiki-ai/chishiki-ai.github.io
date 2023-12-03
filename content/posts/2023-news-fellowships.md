@@ -35,12 +35,12 @@ Potential application areas of AI in Civil Engineering include, but are not limi
 
 ### Application Deadline: February 6, 2024
 
-
-<div class="mt-6 ">
-  <a href="https://tacc.utexas.edu/education/undergraduates-graduates/scipe/" style="text-decoration: none;" class="px-5 py-3 text-base font-medium text-white bg-gray-900 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
+<form action="https://tacc.utexas.edu/education/undergraduates-graduates/scipe/" target="_blank">
+  <button type="submit" 
+          class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
     Apply Now
-  </a>
-</div>
+  </button>
+</form>
 
 ## Undergraduate Studentship
 
@@ -58,11 +58,12 @@ Potential application areas of AI in Civil Engineering include, but are not limi
 
 ### Application Deadline: February 6, 2024
 
-<div class="mt-6 ">
-  <a href="https://tacc.utexas.edu/education/undergraduates-graduates/scipe/" style="text-decoration: none;" class="px-5 py-3 text-base font-medium text-white bg-gray-900 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
+<form action="https://tacc.utexas.edu/education/undergraduates-graduates/scipe/" target="_blank">
+  <button type="submit" 
+          class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
     Apply Now
-  </a>
-</div>
+  </button>
+</form>
 
 
 If you would like to learn more about the SCIPE Undergraduate Research Scholarship or the Graduate Student Fellowship, please visit the [fellowship website](https://tacc.utexas.edu/education/undergraduates-graduates/scipe/). Additionally, feel free to reach out to us at [scipe@tacc.utexas.edu](mailto:scipe@tacc.utexas.edu) for further information or assistance.
