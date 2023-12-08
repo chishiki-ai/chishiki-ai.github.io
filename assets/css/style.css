@@ -2167,6 +2167,11 @@ EmojiSymbols;
   color: rgb(153 51 153 / var(--tw-text-opacity));
 }
 
+:is(.dark .dark\:text-primary-50) {
+  --tw-text-opacity: 1;
+  color: rgb(242 230 242 / var(--tw-text-opacity));
+}
+
 :is(.dark .dark\:text-white) {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
