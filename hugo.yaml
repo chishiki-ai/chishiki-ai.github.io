@@ -11,6 +11,10 @@ darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
 
+services:
+  googleAnalytics:
+    ID: G-9JTT3D3L5M
+
 markup:
   goldmark:
     extensions:
