@@ -17,6 +17,17 @@ The SCIPE AI in Civil Engineering fellowship and scholarship programs provides a
 
 Potential application areas of AI in Civil Engineering include, but are not limited to, computer vision techniques for structural health monitoring, automation in construction, robotics in extreme environments, AI-accelerated simulations, AI-enabled knowledge discovery, AI for natural hazards engineering, and AI for mobility, water, and energy.
 
+## Become a member
+
+Register to be part of the active Chishiki-AI user community to stay updated on the latest information, fellowships, courses, and training.
+
+<form action="https://utexas.qualtrics.com/jfe/form/SV_6JxWhRmLmsq4Ram" target="_blank">
+  <button type="submit" 
+          class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
+    Register Now
+  </button>
+</form>
+
 ## Graduate Student Fellowship
 
 > Dates: June 1, 2024 – May 31, 2025

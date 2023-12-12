@@ -69,8 +69,8 @@ params:
     content:
       - text: "Latest news on courses, training and fellowships."
   p5:
-    heading: "Stay Up to Date"
-    button: "Notify me"
+    heading: "Stay Up to Date, become part of the Chishiki-AI community"
+    button: "Register"
 
   social_media:
     github:
@@ -102,6 +102,10 @@ menu:
       name: News
       url: /categories/news/
       weight: 40
+    - identifier: Become a member
+      name: Membership
+      url: https://utexas.qualtrics.com/jfe/form/SV_6JxWhRmLmsq4Ram
+      weight: 50
 markup:
   goldmark:
     renderer:
