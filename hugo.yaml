@@ -69,7 +69,9 @@ params:
     content:
       - text: "Latest news on courses, training and fellowships."
   p5:
-    heading: "Stay Up to Date, become part of the Chishiki-AI community"
+    heading: "Stay Up to Date"
+    content:
+      - text:  "Become a member to receive updates on our latest news, courses, events, and fellowships."
     button: "Register"
 
   social_media:
