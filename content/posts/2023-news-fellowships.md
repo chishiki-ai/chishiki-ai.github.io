@@ -81,6 +81,24 @@ If you would like to learn more about the SCIPE Undergraduate Research Scholarsh
 
 Don't miss this chance to be part of a pioneering group of scholars and researchers shaping the future of Civil Engineering. Apply now and join us in this exciting journey!
 
+### Questions?
+
+Applicants should first consult with an advisor or academic department as they often have experience with programs such as this one.
+
+Staff will be hosting an open forum information session over Zoom on **January 12th at 12:00 pm central**. During this session, applicants are encouraged to ask questions about the program and application process.
+
+[Join the Zoom Webinar](https://designsafe-ci.zoom.us/j/95553160222?pwd=ZTFvVUYvcURLZFlGTlRtUU84ampNdz09)
+
+Webinar ID: 955 5316 0222
+Passcode: 149061
+
+Mobile:
++13462487799, 95553160222# US (Houston)
++16699006833, 95553160222# US (San Jose)
+
+International numbers available: [https://DesignSafe-ci.zoom.us/u/acy51VPIVU](https://DesignSafe-ci.zoom.us/u/acy51VPIVU).
+
+The SCIPE FAQ provides additional information necessary to correctly complete the application. For additional questions, please email [scipe@tacc.utexas.edu](mailto:scipe@tacc.utexas.edu).
 
 ### For more information:
 
