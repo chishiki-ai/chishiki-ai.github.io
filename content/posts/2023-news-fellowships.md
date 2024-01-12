@@ -100,6 +100,9 @@ International numbers available: [https://DesignSafe-ci.zoom.us/u/acy51VPIVU](ht
 
 The SCIPE FAQ provides additional information necessary to correctly complete the application. For additional questions, please email [scipe@tacc.utexas.edu](mailto:scipe@tacc.utexas.edu).
 
+
+[2024 Chishiki AI Fellowships Informational Webinar Slides](https://docs.google.com/presentation/d/1Pbk1XHnzs4VYEbMmvXVhosoWnB9C9bgImmehhzj2iRs/edit?usp=sharing)
+
 ### For more information:
 
 * [Chishiki.AI SCIPE graduate and undergraduate fellowships](https://tacc.utexas.edu/education/undergraduates-graduates/scipe/)
