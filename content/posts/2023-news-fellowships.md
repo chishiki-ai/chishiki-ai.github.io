@@ -81,27 +81,18 @@ If you would like to learn more about the SCIPE Undergraduate Research Scholarsh
 
 Don't miss this chance to be part of a pioneering group of scholars and researchers shaping the future of Civil Engineering. Apply now and join us in this exciting journey!
 
-### Questions?
-
+### Informational Webinar 
 Applicants should first consult with an advisor or academic department as they often have experience with programs such as this one.
 
-Staff will be hosting an open forum information session over Zoom on **January 12th at 12:00 pm central**. During this session, applicants are encouraged to ask questions about the program and application process.
+Staff hosted an open forum information session over Zoom on **January 12th at 12:00 pm central**. During this session, applicants are encouraged to ask questions about the program and application process.
 
-[Join the Zoom Webinar](https://designsafe-ci.zoom.us/j/95553160222?pwd=ZTFvVUYvcURLZFlGTlRtUU84ampNdz09)
-
-Webinar ID: 955 5316 0222
-Passcode: 149061
-
-Mobile:
-+13462487799, 95553160222# US (Houston)
-+16699006833, 95553160222# US (San Jose)
-
-International numbers available: [https://DesignSafe-ci.zoom.us/u/acy51VPIVU](https://DesignSafe-ci.zoom.us/u/acy51VPIVU).
-
-The SCIPE FAQ provides additional information necessary to correctly complete the application. For additional questions, please email [scipe@tacc.utexas.edu](mailto:scipe@tacc.utexas.edu).
-
+The [webinar recording](https://designsafe-ci.zoom.us/rec/play/4yzaVyz1kxCCWfoz3SZ7bcbe38lTBIgl9R-YzGTFCgbPFXUWEvfFxawpzALZUOC3oC1EN9UWE490j7dJ.Ar_KYt1PEur0Vxg4?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fdesignsafe-ci.zoom.us%2Frec%2Fshare%2Fz294lWnteV6nXlrv5-eLPzG0n0EDJCRqDHwJj1seTzQYjpB9agfEene7V8Xh2Dem.ZXeo2iHreD91teso) is now available.
 
 [2024 Chishiki AI Fellowships Informational Webinar Slides](https://docs.google.com/presentation/d/1Pbk1XHnzs4VYEbMmvXVhosoWnB9C9bgImmehhzj2iRs/edit?usp=sharing)
+
+### Questions
+
+The SCIPE FAQ provides additional information necessary to correctly complete the application. For additional questions, please email [scipe@tacc.utexas.edu](mailto:scipe@tacc.utexas.edu).
 
 ### For more information:
 
