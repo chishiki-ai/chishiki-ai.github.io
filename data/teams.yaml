@@ -39,3 +39,10 @@
   org: "Texas Advanced Computing Center (TACC)"
   link: "https://www.linkedin.com/in/julianaduncan"
   image: "/images/team/juliana.jpg"
+
+- name: "Susan Mehringer"
+  role: "Associate Director"
+  teams: ["CVW"]
+  org: "Cornell University - Center for Advanced Computing (CAC)"
+  link: "https://www.cac.cornell.edu/mehringer/"
+  image: "/images/team/susan.jpg"

@@ -41,7 +41,22 @@
       </div>
       {{ end }}
       {{ end }}
-  </div>
+    </div>
+    <h2 class="py-12 text-4xl font-black text-center text-black capitalize dark:prose-invert dark:text-white">Personalized & Scalable Tutor</h2>
+    <div class="team-grid dark:text-white">
+      {{ range .Site.Data.teams }}
+      {{ if in .teams "CVW" }}
+      <div class="team-member dark:text-white">
+        <a href="{{ .link }}">
+          <img src="{{ .image }}" alt="{{ .name }}">
+          <h3>{{ .name }}</h3>
+          <p>{{ .role }} </br>
+             {{ .org }}</p>
+        </a>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
   </div>
 </article>
 {{end}}
