@@ -1,0 +1,47 @@
+{{define "main"}}
+<article>
+  <header class="mb-4 bg-primary-600">
+    <span class="py-96">
+      <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
+        {{ .Title }}
+      </h1>
+    </span>
+  </header>
+  <div class="max-w-4xl mx-auto mt-8 mb-2">
+    <!-- Render markdown content here -->
+    <h2 class="py-12 text-4xl font-black text-center text-black capitalize dark:prose-invert dark:text-white">Leadership</h2>
+    <p class="pb-8 ">
+      Chishiki.AI is a transformative project at the forefront of integrating Artificial Intelligence (AI) with Civil and Environmental Engineering (CEE). Chishiki.AI, meaning 'knowledge through AI,' is a pioneering initiative funded by the National Science Foundation and led by a team of experts at the University of Texas at Austin in collaboration with Cornell University.
+    </p>
+    <div class="team-grid dark:text-white">
+        {{ range .Site.Data.teams }}
+        {{ if in .teams "Leadership" }}
+        <div class="team-member dark:text-white">
+          <a href="{{ .link }}">
+            <img src="{{ .image }}" alt="{{ .name }}">
+            <h3>{{ .name }}</h3>
+            <p>{{ .role }} </br>
+               {{ .org }}</p>
+          </a>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+    <h2 class="py-12 text-4xl font-black text-center text-black capitalize dark:prose-invert dark:text-white">AI/ML</h2>
+    <div class="team-grid dark:text-white">
+      {{ range .Site.Data.teams }}
+      {{ if in .teams "AI/ML" }}
+      <div class="team-member dark:text-white">
+        <a href="{{ .link }}">
+          <img src="{{ .image }}" alt="{{ .name }}">
+          <h3>{{ .name }}</h3>
+          <p>{{ .role }} </br>
+             {{ .org }}</p>
+        </a>
+      </div>
+      {{ end }}
+      {{ end }}
+  </div>
+  </div>
+</article>
+{{end}}

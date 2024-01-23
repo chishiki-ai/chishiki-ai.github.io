@@ -1,9 +1,0 @@
-- name: "Jane Doe"
-  role: "Project Manager"
-  description: "Responsible for overseeing the project."
-  image: "/path/to/image.jpg"
-- name: "John Smith"
-  role: "Developer"
-  description: "Focuses on backend development."
-  image: "/path/to/image.jpg"
-# Add more team members as needed

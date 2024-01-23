@@ -25,4 +25,22 @@ EmojiSymbols;
     color: white !important;
 }
 
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+.team-member {
+    text-align: center;
+}
+.team-member img {
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.team-member h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
 /* Custom CSS end */

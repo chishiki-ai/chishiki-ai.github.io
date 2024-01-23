@@ -92,6 +92,10 @@ menu:
       name: About
       url: /about/
       weight: 10
+    - identifier: team
+      name: Team
+      url: /team/
+      weight: 15
     - identifier: fellowships
       name: Fellowships
       url: /posts/2023-news-fellowships/

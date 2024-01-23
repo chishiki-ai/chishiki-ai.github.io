@@ -1,0 +1,41 @@
+- name: "Krishna Kumar"
+  role: "PI"
+  teams: ["Leadership", "AI/ML", "CEE"]
+  org: "University of Texas at Austin"
+  link: "https://www.caee.utexas.edu/people/faculty/faculty-directory/krishna-kumar"
+  image: "/images/team/krishna.jpg"
+
+- name: "Ellen Rathje"
+  role: "Co-PI"
+  teams: ["Leadership", "CEE"]
+  org: "University of Texas at Austin"
+  link: "https://www.caee.utexas.edu/people/faculty/faculty-directory/rathje"
+  image: "/images/team/ellen.jpg"
+
+- name: "Daniel Stanzione"
+  role: "Co-PI"
+  teams: ["Leadership", "AI/ML"]
+  org: "Texas Advanced Computing Center (TACC)"
+  link: "https://tacc.utexas.edu/about/staff-directory/dan-stanzione/"
+  image: "/images/team/dan.jpg"
+
+- name: "Richard Knepper"
+  role: "Co-PI"
+  teams: ["Leadership", "CVW"]
+  org: "Cornell University - Center for Advanced Computing (CAC)"
+  link: "https://www.cac.cornell.edu/knepper/"
+  image: "/images/team/rich.jpg"
+
+- name: "Niall Gaffney"
+  role: "Data and AI Directorate"
+  teams: ["AI/ML"]
+  org: "Texas Advanced Computing Center (TACC)"
+  link: "https://tacc.utexas.edu/about/staff-directory/niall-gaffney/"
+  image: "/images/team/niall.jpg"
+
+- name: "Juliana Duncan"
+  role: "Scalable Computational Intelligence"
+  teams: ["AI/ML"]
+  org: "Texas Advanced Computing Center (TACC)"
+  link: "https://www.linkedin.com/in/julianaduncan"
+  image: "/images/team/juliana.jpg"
