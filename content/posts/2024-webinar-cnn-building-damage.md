@@ -4,16 +4,19 @@ date: 2023-07-11T09:11:36+06:00
 draft: false
 language: en
 featured_image: ../assets/images/posts/building-damage.jpg
-summary: CNN for buidling damage classification.
+summary: CNN for buidling damage classification. March 28th (Thursday) 12 - 2 PM Central, USA.
 description: CNN for buidling damage classification.
 author: Chishiki
 authorimage: ../assets/images/global/ai.png
-course_url: https://utexas.qualtrics.com/jfe/form/SV_2bKU2UgqkOrJvMO
+course_url: chishiki-ai.org/posts/2024-webinar-cnn-building-damage/
 categories: Courses
 tags: [Courses, CNN]
 ---
 
-## Data and Time: March 28th (Thursday) 12 - 2 PM Central, USA.
+## Data and Time: 
+
+> March 28th (Thursday) 12 - 2 PM Central, USA.
+
 
 <button type="button" 
         onclick="window.open('https://utexas.qualtrics.com/jfe/form/SV_2bKU2UgqkOrJvMO', '_blank')" 
