@@ -45,6 +45,8 @@ Basic understanding of Python programming is recommended but not essential.
 ## Trainer Bio:
 Sikan Li is a research associate at the Texas Advanced Computing Center (TACC)'s Scalable Computational Intelligence (SCI) group. Her work focuses on developing machine learning and data mining techniques to analyze large-scale, complex datasets.  She's published several papers in this field and actively contributes to research, development, and support initiatives involving big data, statistical analysis, and machine learning at TACC. With a background in scientific data visualization, Sikan brings a unique perspective to her passion for scalable data analysis and machine learning.
 
+> [Sikan Li](https://tacc.utexas.edu/about/staff-directory/sikan-li/)
+
 
 <button type="button" 
         onclick="window.open('https://utexas.qualtrics.com/jfe/form/SV_2bKU2UgqkOrJvMO', '_blank')" 
