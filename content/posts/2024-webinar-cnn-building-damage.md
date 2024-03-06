@@ -13,6 +13,8 @@ categories: Courses
 tags: [Courses, CNN]
 ---
 
+## Data and Time: March 28th (Thursday) 12 - 2 PM Central, USA.
+
 <button type="button" 
         onclick="window.open('https://utexas.qualtrics.com/jfe/form/SV_2bKU2UgqkOrJvMO', '_blank')" 
         class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
