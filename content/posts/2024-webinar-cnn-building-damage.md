@@ -22,7 +22,9 @@ tags: [Courses, CNN]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKjAQEnkWuE?si=wu0PwVOEmZDkAIMx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Course notes:
 
+Please view the [course notes online](https://www.chishiki-ai.org/cnn-course/README.html)
 
 ## Description:
 This webinar will guide you through building and deploying effective Convolutional Neural Networks (CNNs) for automated building damage identification.  We'll cover image classification techniques, CNN fundamentals, and hands-on experience to empower you with the skills to scale your solutions.
