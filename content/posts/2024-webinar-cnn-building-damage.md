@@ -18,11 +18,9 @@ tags: [Courses, CNN]
 > March 28th (Thursday) 12 - 2 PM Central, USA.
 
 
-<button type="button" 
-        onclick="window.open('https://utexas.qualtrics.com/jfe/form/SV_2bKU2UgqkOrJvMO', '_blank')" 
-        class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
- Register for Webinar
-</button>
+## Watch course:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKjAQEnkWuE?si=wu0PwVOEmZDkAIMx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -48,8 +46,9 @@ Sikan Li is a research associate at the Texas Advanced Computing Center (TACC)'s
 > [Sikan Li](https://tacc.utexas.edu/about/staff-directory/sikan-li/)
 
 
-<button type="button" 
+
+<!--<button type="button" 
         onclick="window.open('https://utexas.qualtrics.com/jfe/form/SV_2bKU2UgqkOrJvMO', '_blank')" 
         class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
  Register for Webinar
-</button>
+</button>-->
