@@ -23,7 +23,7 @@ We are organizing a Research Summit on Crosscutting Research Needs for AI in Civ
 
 The two-day workshop will be held April 4-5, 2024, in person at the Texas Advanced Computing Center - TACC, UT Austin, TX. 
 
-10505 Exploration Way, Austin, TX 78758
+[10505 Exploration Way, Austin, TX 78758](https://maps.app.goo.gl/2gqg52ySqGt1m3JB7)
 
 ## AGENDA
 
