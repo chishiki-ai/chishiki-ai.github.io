@@ -80,9 +80,9 @@ params:
       url: 'https://github.com/chishiki-ai'
     linkedin:
       enabled: true
-      url: 'https://linkedin.com/p/chishiki-ai'
+      url: 'https://www.linkedin.com/company/chishikiai/'
     twitter:
-      enabled: true
+      enabled: false
       url: '@chishiki-ai'
     
 
