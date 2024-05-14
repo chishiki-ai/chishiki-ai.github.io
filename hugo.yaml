@@ -112,6 +112,10 @@ menu:
       name: Membership
       url: https://utexas.qualtrics.com/jfe/form/SV_6JxWhRmLmsq4Ram
       weight: 50
+    - identifier: awardees
+      name: Awardees
+      url: /awardees/
+      weight: 60
 markup:
   goldmark:
     renderer:
