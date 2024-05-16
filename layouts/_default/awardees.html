@@ -11,7 +11,7 @@
     <!-- Render markdown content here -->
     <h2 class="py-12 text-4xl font-black text-center text-black capitalize dark:prose-invert dark:text-white"> Chishiki AI fellowship</h2>
     <p class="text-2xl text-center pb-8">
-      2024 Awardees
+      2024 Graduate Fellowship Awardees
     </p>
     <hr>
     {{ range .Site.Data.awardees }}
@@ -21,7 +21,7 @@
 
       <div>
         <h2 style="font-size: 20px;">{{ .name }}</h2>
-        
+        <h3 style="font-size: 16px;">{{ .school }}</h3>
       </div>
     </div>
     <div class="mx-auto mb-4">
@@ -38,7 +38,7 @@
       <p class="mb-2"><b>What do you like to do when you aren’t working on research?</b></p>
       <p class="mb-2">{{.q5}}</p>
     </div>
-    <hr>
+    <hr style="border: none; height: 2px; background-color: #660066;">
     {{ end }}
   </div>
   
