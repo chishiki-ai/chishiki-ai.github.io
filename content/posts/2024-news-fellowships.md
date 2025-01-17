@@ -1,6 +1,6 @@
 ---
 title: "Chishiki-AI SCIPE Fellowships Now Open for Applications!"
-date: 2025-09-25T06:00:00+06:00
+date: 2024-09-25T06:00:00+06:00
 draft: false
 language: en
 featured_image:  ../assets/images/pages/students.png
