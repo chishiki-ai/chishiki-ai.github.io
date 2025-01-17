@@ -98,7 +98,7 @@ menu:
       weight: 15
     - identifier: fellowships
       name: Fellowships
-      url: /posts/2023-news-fellowships/
+      url: /posts/2024-news-fellowships/
       weight: 20
     - identifier: courses
       name: Courses
