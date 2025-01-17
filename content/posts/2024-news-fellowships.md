@@ -44,7 +44,7 @@ Register to be part of the active Chishiki-AI user community to stay updated on 
 - At least one full year remaining in the PhD program as of June 2025
 - Spend at least one week in residence at TACC during the summer semester
 
-### Application Deadline: February 6, 2025
+### Application Deadline: February 7, 2025
 
 <form action="https://tacc.utexas.edu/education/undergraduates-graduates/scipe/" target="_blank">
   <button type="submit" 
@@ -67,7 +67,7 @@ Register to be part of the active Chishiki-AI user community to stay updated on 
 - At least one full year remaining in your program as of June 2025
 - Spend at least one month in residence at UT Austin/TACC during the summer semester
 
-### Application Deadline: February 6, 2025
+### Application Deadline: February 7, 2025
 
 <form action="https://tacc.utexas.edu/education/undergraduates-graduates/scipe/" target="_blank">
   <button type="submit" 
@@ -84,7 +84,7 @@ Don't miss this chance to be part of a pioneering group of scholars and research
 ### Informational Webinar 
 Applicants should first consult with an advisor or academic department as they often have experience with programs such as this one.
 
-Staff hosted an open forum information session over Zoom on **January 23rd at 12:00 pm central**. During this session, applicants are encouraged to ask questions about the program and application process.
+Staff hosted an open forum information session over Zoom on **January 22nd at 12:00 pm central**. During this session, applicants are encouraged to ask questions about the program and application process.
 
 <form action="https://DesignSafe-ci.zoom.us/j/95413426079?pwd=Ouhsq7aNboyja3Fu6zfiUpMOCJIurg.1" target="_blank">
   <button type="submit" 
@@ -93,7 +93,7 @@ Staff hosted an open forum information session over Zoom on **January 23rd at 12
   </button>
 </form>
 
-https://DesignSafe-ci.zoom.us/j/95413426079?pwd=Ouhsq7aNboyja3Fu6zfiUpMOCJIurg.1
+https://DesignSafe-ci.zoom.us/j/95413426079?pwd=Ouhsq7aNboyja3Fu6zfiUpMOCJIurg.1  
 Webinar ID: 954 1342 6079
 Passcode:876962
 
