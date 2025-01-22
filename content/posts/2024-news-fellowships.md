@@ -86,21 +86,10 @@ Applicants should first consult with an advisor or academic department as they o
 
 Staff hosted an open forum information session over Zoom on **January 22nd at 12:00 pm central**. During this session, applicants are encouraged to ask questions about the program and application process.
 
-<form action="https://DesignSafe-ci.zoom.us/j/95413426079?pwd=Ouhsq7aNboyja3Fu6zfiUpMOCJIurg.1" target="_blank">
-  <button type="submit" 
-          class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
-    Join Webinar
-  </button>
-</form>
 
-https://DesignSafe-ci.zoom.us/j/95413426079?pwd=Ouhsq7aNboyja3Fu6zfiUpMOCJIurg.1  
-Webinar ID: 954 1342 6079
-Passcode:876962
+The [webinar recording](https://designsafe-ci.zoom.us/rec/share/jAu74U7fB3k4ZnCFcqqaWYoTnigoRcxqOdZr4hWrbcvVMD9bWXPhRCa7xpQjZoKF.Ccx2ysGSHm_2hC_S) is now available.
 
-
-The [webinar recording](https://designsafe-ci.zoom.us/rec/play/4yzaVyz1kxCCWfoz3SZ7bcbe38lTBIgl9R-YzGTFCgbPFXUWEvfFxawpzALZUOC3oC1EN9UWE490j7dJ.Ar_KYt1PEur0Vxg4?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fdesignsafe-ci.zoom.us%2Frec%2Fshare%2Fz294lWnteV6nXlrv5-eLPzG0n0EDJCRqDHwJj1seTzQYjpB9agfEene7V8Xh2Dem.ZXeo2iHreD91teso) is now available.
-
-[2024 Chishiki AI Fellowships Informational Webinar Slides](https://docs.google.com/presentation/d/1Pbk1XHnzs4VYEbMmvXVhosoWnB9C9bgImmehhzj2iRs/edit?usp=sharing)
+[2025 Chishiki AI Fellowships Informational Webinar Slides](https://docs.google.com/presentation/d/1Jie8-30uAVwEe5v1anamCy2nqL67NPFnnC5W16Yj7oY/edit?usp=sharing)
 
 ### Questions
 
