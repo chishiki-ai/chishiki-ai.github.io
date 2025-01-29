@@ -87,7 +87,7 @@ Applicants should first consult with an advisor or academic department as they o
 Staff hosted an open forum information session over Zoom on **January 22nd at 12:00 pm central**. During this session, applicants are encouraged to ask questions about the program and application process.
 
 
-The [webinar recording](https://designsafe-ci.zoom.us/rec/share/jAu74U7fB3k4ZnCFcqqaWYoTnigoRcxqOdZr4hWrbcvVMD9bWXPhRCa7xpQjZoKF.Ccx2ysGSHm_2hC_S) is now available.
+The [webinar recording](https://youtu.be/afSQPmDRvL4?si=W4wP3e5o15pFKl-Y) is now available.
 
 [2025 Chishiki AI Fellowships Informational Webinar Slides](https://docs.google.com/presentation/d/1Jie8-30uAVwEe5v1anamCy2nqL67NPFnnC5W16Yj7oY/edit?usp=sharing)
 
