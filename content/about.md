@@ -25,7 +25,7 @@ Our innovative strategies focus on:
 
 * **Innovative CI Architectures**: We develop AI-enabled computational infrastructures for efficient and reproducible workflows, optimizing high-performance computing systems for CEE applications.
 
-* **Fostering Diversity**: Engaging with Historically Black Colleges and Universities (HBCUs) and Minority Serving Institutions (MSIs), we aim to build a more inclusive CIP community.
+* **Broadening Participation in STEM**: Engaging with Historically Black Colleges and Universities (HBCUs) and Minority Serving Institutions (MSIs), we aim to build a more inclusive CIP community.
 
 ## Educational Innovations
 
