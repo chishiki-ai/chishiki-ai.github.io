@@ -108,6 +108,10 @@ menu:
       name: News
       url: /categories/news/
       weight: 40
+    - identifier: webinar
+      name: Webinar
+      url: /webinar/
+      weight: 45
     - identifier: Become a member
       name: Membership
       url: https://utexas.qualtrics.com/jfe/form/SV_6JxWhRmLmsq4Ram
