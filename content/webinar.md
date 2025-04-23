@@ -1,0 +1,16 @@
+---
+title: "Webinar"
+date: 2025-04-23T12:00:00Z
+draft: false
+---
+
+# Transformative potential of Machine Learning AI and in Geotechnical Engineering
+> Youssef Hashash, Ph.D., P.E., F. ASCE, NAE
+Professor and Grainger Distinguished Chair of Engineering
+University of Illinois Urbana-Champaign, Urbana, IL, USA
+
+> May 14, 2025 12:00 PM Central
+
+![Professor Youssef Hashash](../assets/images/posts/hashash.jpg)
+
+In this presentation we explore the past, present and future potential of AI in Geotechnical Engineering. The presentation will provide a brief history and context of AI and its uses in Civil Engineering in general and Geotechnical Engineering in particular. The presentation will then track developments over the past three decades including the use of Artificial Neural Networks for developing correlations in lieu of conventional regression analysis, as well as the use of ANN to represent material constitutive behavior. The presentation will also explore the role of AI in inverse analysis and discovering material behavior. Lastly the presentation will delve into the world of Large Language Models and Generative AI application in Geotechnical Engineering with several illustrative examples.
