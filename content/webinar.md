@@ -3,8 +3,9 @@ title: "Webinar"
 date: 2025-04-23T12:00:00Z
 draft: false
 ---
+# Chishiki AI Webinar Series
 
-# Transformative potential of Machine Learning AI and in Geotechnical Engineering
+## Transformative potential of Machine Learning AI and in Geotechnical Engineering
 > Youssef Hashash, Ph.D., P.E., F. ASCE, NAE
 Professor and Grainger Distinguished Chair of Engineering
 University of Illinois Urbana-Champaign, Urbana, IL, USA
