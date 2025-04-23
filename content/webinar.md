@@ -8,7 +8,7 @@ draft: false
 Professor and Grainger Distinguished Chair of Engineering
 University of Illinois Urbana-Champaign, Urbana, IL, USA
 
-> May 14, 2025 12:00 PM Central
+**May 14, 2025 12:00 PM Central**
 
 ![Professor Youssef Hashash](/images/webinar/hashash.jpg)
 
