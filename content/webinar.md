@@ -14,9 +14,9 @@ University of Illinois Urbana-Champaign, Urbana, IL, USA
 
 
 <form action="https://designsafe-ci.zoom.us/webinar/register/WN_X3rjqWzNTLKN0haIh59Zzw#/registration" target="_blank">
-  <button type="Register" 
+  <button type="submit" 
           class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
-    Apply Now
+    Register to attend
   </button>
 </form>
 
