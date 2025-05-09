@@ -3,7 +3,7 @@ title: "AI/ML Webinar Series"
 date: 2025-04-23T12:00:00Z
 draft: false
 ---
-The AI/ML Webinar series is co-hosted with [NHERI DesignSafe](https://www.designsafe-ci.org/)
+Chishiki AI and [NHERI DesignSafe](https://www.designsafe-ci.org/) are proud to announce a new webinar series on AI/ML in Engineering.
 
 ## Transformative potential of Machine Learning AI and in Geotechnical Engineering
 > Youssef Hashash, Ph.D., P.E., F. ASCE, NAE
