@@ -5,7 +5,7 @@ draft: false
 ---
 Chishiki AI and [NHERI DesignSafe](https://www.designsafe-ci.org/) are proud to announce a new webinar series on AI/ML in Engineering.
 
-## Transformative potential of Machine Learning AI and in Geotechnical Engineering
+## Transformative potential of Machine Learning and AI in Geotechnical Engineering
 > Youssef Hashash, Ph.D., P.E., F. ASCE, NAE
 Professor and Grainger Distinguished Chair of Engineering
 University of Illinois Urbana-Champaign, Urbana, IL, USA
