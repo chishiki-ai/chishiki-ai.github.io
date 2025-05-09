@@ -23,3 +23,7 @@ University of Illinois Urbana-Champaign, Urbana, IL, USA
 </form>
 
 In this presentation we explore the past, present and future potential of AI in Geotechnical Engineering. The presentation will provide a brief history and context of AI and its uses in Civil Engineering in general and Geotechnical Engineering in particular. The presentation will then track developments over the past three decades including the use of Artificial Neural Networks for developing correlations in lieu of conventional regression analysis, as well as the use of ANN to represent material constitutive behavior. The presentation will also explore the role of AI in inverse analysis and discovering material behavior. Lastly the presentation will delve into the world of Large Language Models and Generative AI application in Geotechnical Engineering with several illustrative examples.
+
+
+> Cohosted with NHERI DesignSafe
+![DesignSafe](https://www.designsafe-ci.org/media/filer_public/2d/d3/2dd37fbf-289e-49cf-9c1a-879c864c4e17/nsf_nheri-ds.png)
