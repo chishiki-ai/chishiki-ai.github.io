@@ -10,7 +10,7 @@ Chishiki AI and [NHERI DesignSafe](https://www.designsafe-ci.org/) are proud to 
 Professor and Grainger Distinguished Chair of Engineering
 University of Illinois Urbana-Champaign, Urbana, IL, USA
 
-**May 14, 2025 12:00 PM Central**
+**June 16, 2025 12:00 PM Central**
 
 ![Professor Youssef Hashash](/images/webinar/hashash.jpg)
 
