@@ -14,13 +14,14 @@ University of Illinois Urbana-Champaign, Urbana, IL, USA
 
 ![Professor Youssef Hashash](/images/webinar/hashash.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AelgsHyj0wA?si=WnMVK40LH7-X9K2a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<form action="https://designsafe-ci.zoom.us/webinar/register/WN_X3rjqWzNTLKN0haIh59Zzw#/registration" target="_blank">
+<!--<form action="https://designsafe-ci.zoom.us/webinar/register/WN_X3rjqWzNTLKN0haIh59Zzw#/registration" target="_blank">
   <button type="submit" 
           class="block w-full px-5 py-3 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
     Register to attend
   </button>
-</form>
+</form>-->
 
 In this presentation we explore the past, present and future potential of AI in Geotechnical Engineering. The presentation will provide a brief history and context of AI and its uses in Civil Engineering in general and Geotechnical Engineering in particular. The presentation will then track developments over the past three decades including the use of Artificial Neural Networks for developing correlations in lieu of conventional regression analysis, as well as the use of ANN to represent material constitutive behavior. The presentation will also explore the role of AI in inverse analysis and discovering material behavior. Lastly the presentation will delve into the world of Large Language Models and Generative AI application in Geotechnical Engineering with several illustrative examples.
 
