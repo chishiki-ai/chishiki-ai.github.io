@@ -1,0 +1,88 @@
+{{ define "main" }}
+<main>
+    <article>
+        <header class="mb-4 bg-primary-600">
+            <span class="py-96">
+                <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
+                    {{ .Title }}
+                </h1>
+            </span>
+        </header>
+
+        <div class="max-w-4xl px-6 mx-auto mt-6 prose dark:prose-invert dark:text-white">
+            {{ with .Content }}
+                {{- . -}}
+            {{ end }}
+
+            {{ $webinars := where .Site.RegularPages "Section" "webinars" }}
+            {{ $upcomingWebinars := where $webinars ".Params.status" "upcoming" }}
+            {{ $completedWebinars := where $webinars ".Params.status" "completed" }}
+
+            <h2>Upcoming Webinars</h2>
+            {{ if $upcomingWebinars }}
+                <div class="grid gap-4 mx-auto mt-6 mb-8 lg:max-w-none md:grid-cols-2">
+                    {{ range $upcomingWebinars.ByDate }}
+                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                            <div class="p-6">
+                                <div class="flex-1">
+                                    <a href="{{ .Permalink }}" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                                        {{ .Title }}
+                                    </a>
+                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                                        <strong>{{ .Params.webinar_date }}</strong> | {{ .Params.webinar_time }}
+                                    </p>
+                                    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+                                        Speaker: {{ .Params.speaker }}, {{ .Params.speaker_affiliation }}
+                                    </p>
+                                </div>
+                                <div class="flex pt-4">
+                                    <span class="inline-flex items-center rounded-md bg-blue-100 px-2.5 py-0.5 text-sm font-medium text-blue-800">Upcoming</span>
+                                </div>
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+            {{ else }}
+                <p><em>Stay tuned for upcoming webinar announcements!</em></p>
+            {{ end }}
+
+            <h2>Past Webinars</h2>
+            {{ if $completedWebinars }}
+                <div class="grid gap-4 mx-auto mt-6 mb-8 lg:max-w-none md:grid-cols-2">
+                    {{ range $completedWebinars.ByDate.Reverse }}
+                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                            <div class="p-6">
+                                <div class="flex-1">
+                                    <a href="{{ .Permalink }}" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                                        {{ .Title }}
+                                    </a>
+                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                                        <strong>{{ .Params.webinar_date }}</strong> | {{ .Params.webinar_time }}
+                                    </p>
+                                    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+                                        Speaker: {{ .Params.speaker }}, {{ .Params.speaker_affiliation }}
+                                    </p>
+                                </div>
+                                <div class="flex pt-4">
+                                    <span class="inline-flex items-center rounded-md bg-green-100 px-2.5 py-0.5 text-sm font-medium text-green-800">Completed</span>
+                                </div>
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+            {{ else }}
+                <p><em>No completed webinars yet.</em></p>
+            {{ end }}
+
+            <hr>
+
+            <blockquote>
+                Cohosted with NHERI DesignSafe<br>
+                <a href="https://www.designsafe-ci.org/">
+                    <img src="https://www.designsafe-ci.org/media/filer_public/2d/d3/2dd37fbf-289e-49cf-9c1a-879c864c4e17/nsf_nheri-ds.png" alt="DesignSafe">
+                </a>
+            </blockquote>
+        </div>
+    </article>
+</main>
+{{ end }}

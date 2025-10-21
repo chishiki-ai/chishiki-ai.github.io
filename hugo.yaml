@@ -7,6 +7,7 @@ enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
 paginate: 9
+buildFuture: true
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
