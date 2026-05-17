@@ -8,13 +8,12 @@
     </span>
   </header>
   <div class="max-w-4xl mx-auto mt-8 mb-4">
-    <!-- Render markdown content here -->
     <h2 class="py-12 text-4xl font-black text-center text-black capitalize dark:prose-invert dark:text-white"> Chishiki AI fellowship</h2>
     <p class="text-2xl text-center pb-8">
-      2024 Graduate Fellowship Awardees
+      2026 Graduate Fellowship Awardees
     </p>
     <hr>
-    {{ range .Site.Data.awardees }}
+    {{ range .Site.Data.awardees_2026 }}
     <div class="team-grid dark:text-white mt-8 mb-4">
 
       <img src="{{ .image }}" alt="{{ .name }}">
@@ -25,22 +24,67 @@
       </div>
     </div>
     <div class="mx-auto mb-4">
-      <p class="text-center mb-2"><b>{{ .prj_title }}</b></p>
-      <p class="mb-2">{{ .summary }}</p>
+      {{ with .prj_title }}<p class="text-center mb-2"><b>{{ . }}</b></p>{{ end }}
+      {{ with .summary }}<p class="mb-2">{{ . }}</p>{{ end }}
+      {{ with .q1 }}
       <p class="mb-2"><b>Why did you become a scientist?</b></p>
-      <p class="mb-2">{{.q1}}</p>
+      <p class="mb-2">{{ . }}</p>
+      {{ end }}
+      {{ with .q2 }}
       <p class="mb-2"><b>What is your favorite aspect of your research?</b></p>
-      <p class="mb-2">{{.q2}}</p>
+      <p class="mb-2">{{ . }}</p>
+      {{ end }}
+      {{ with .q3 }}
       <p class="mb-2"><b>What excites you the most about the opportunity to work on AI and Civil Engineering?</b></p>
-      <p class="mb-2">{{.q3}}</p>
+      <p class="mb-2">{{ . }}</p>
+      {{ end }}
+      {{ with .q4 }}
       <p class="mb-2"><b>What do you hope to accomplish during your time as a Chishiki AI Fellow?</b></p>
-      <p class="mb-2">{{.q4}}</p>
+      <p class="mb-2">{{ . }}</p>
+      {{ end }}
+      {{ with .q5 }}
       <p class="mb-2"><b>What do you like to do when you aren’t working on research?</b></p>
-      <p class="mb-2">{{.q5}}</p>
+      <p class="mb-2">{{ . }}</p>
+      {{ end }}
     </div>
     <hr style="border: none; height: 2px; background-color: #660066;">
     {{ end }}
+
+    <details class="mt-12 mb-8 border border-gray-300 dark:border-gray-700 rounded-lg">
+      <summary class="cursor-pointer select-none px-6 py-4 text-2xl font-bold text-center bg-gray-100 dark:bg-gray-800 dark:text-white rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700">
+        2024 Graduate Fellowship Awardees
+      </summary>
+      <div class="px-6 pt-4 pb-6">
+        <hr>
+        {{ range .Site.Data.awardees_2024 }}
+        <div class="team-grid dark:text-white mt-8 mb-4">
+
+          <img src="{{ .image }}" alt="{{ .name }}">
+
+          <div>
+            <h2 style="font-size: 20px;">{{ .name }}</h2>
+            <h3 style="font-size: 16px;">{{ .school }}</h3>
+          </div>
+        </div>
+        <div class="mx-auto mb-4">
+          <p class="text-center mb-2"><b>{{ .prj_title }}</b></p>
+          <p class="mb-2">{{ .summary }}</p>
+          <p class="mb-2"><b>Why did you become a scientist?</b></p>
+          <p class="mb-2">{{.q1}}</p>
+          <p class="mb-2"><b>What is your favorite aspect of your research?</b></p>
+          <p class="mb-2">{{.q2}}</p>
+          <p class="mb-2"><b>What excites you the most about the opportunity to work on AI and Civil Engineering?</b></p>
+          <p class="mb-2">{{.q3}}</p>
+          <p class="mb-2"><b>What do you hope to accomplish during your time as a Chishiki AI Fellow?</b></p>
+          <p class="mb-2">{{.q4}}</p>
+          <p class="mb-2"><b>What do you like to do when you aren’t working on research?</b></p>
+          <p class="mb-2">{{.q5}}</p>
+        </div>
+        <hr style="border: none; height: 2px; background-color: #660066;">
+        {{ end }}
+      </div>
+    </details>
   </div>
-  
+
 </article>
 {{end}}

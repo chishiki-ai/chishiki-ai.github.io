@@ -6,7 +6,8 @@ enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
-paginate: 9
+pagination:
+  pagerSize: 9
 buildFuture: true
 darkmode_js:
   - assets/js/darkmode.js
@@ -141,7 +142,7 @@ privacy:
   instagram:
     disable: true
     simple: false
-  twitter:
+  x:
     disable: true
     enableDNT: true
     simple: false

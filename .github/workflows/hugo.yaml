@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.120.2 # Consider updating if needed
+      HUGO_VERSION: 0.147.9 # Must be >= 0.141 for hugo.IsServer + privacy.x config
       NODE_VERSION: 20 # Specify desired Node.js version (e.g., LTS)
     steps:
       - name: Install Hugo CLI
