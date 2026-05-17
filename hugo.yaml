@@ -9,6 +9,8 @@ canonifyURLs: true
 pagination:
   pagerSize: 9
 buildFuture: true
+ignoreFiles:
+  - "data/.*\\.(svg|png|jpg|jpeg|py)$"
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
