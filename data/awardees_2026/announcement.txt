@@ -1,0 +1,71 @@
+2026 CHISHIKI AI GRADUATE FELLOWSHIP — ANNOUNCEMENT DRAFTS
+
+============================================================
+LINKEDIN POST
+============================================================
+
+Announcing the 2026 Chishiki AI Graduate Fellows!
+
+We are thrilled to introduce the five graduate researchers selected for the 2026 Chishiki AI Fellowship, working at the frontier of AI for Civil and Environmental Engineering:
+
+- Dibakar Roy Sarkar (Johns Hopkins University) — Safe AI-Enabled Real-Time Control of Hydraulic Fracturing via Neural Operator Surrogates
+- Taiwo A. Adebiyi (University of Houston) — Trustworthy Adaptive Experimentation for Civil-Engineering Digital Twins
+- Melis Fidansoy (UCLA) — AI-SLIDE: AI-Assisted Landslide and Debris-flow Risk Assessment
+- Jung-Hoon Cho (MIT) — Auditable Engagement Design for Participation Bias in Transportation Planning
+- Sai Krishna (University of Georgia) — Collaborative Spatial Intelligence in Multi-Robot Systems for Civil Infrastructure
+
+From safer infrastructure control and trustworthy digital twins to climate-driven hazard modeling, equitable transportation planning, and multi-robot autonomy — this cohort is tackling problems where rigorous AI meets real-world civil engineering impact.
+
+Each fellow will receive support, mentorship, and access to advanced computing resources to accelerate their research. They are also invited to join the NHERI SPARC program at UT Austin.
+
+Read their full bios and research statements: https://www.chishiki-ai.org/awardees/
+
+Congratulations to all five fellows — we cannot wait to see where your work goes.
+
+Supported by the National Science Foundation, Award #2321040 (SCIPE).
+
+#AI #CivilEngineering #GraduateFellowship #NSFFunded #Chishiki
+
+(Attach the collage image: data/awardees_2026/awardees_collage.png)
+
+
+============================================================
+EMAIL
+============================================================
+
+Subject: Announcing the 2026 Chishiki AI Graduate Fellows
+
+Dear Chishiki AI community,
+
+We are delighted to announce the recipients of the 2026 Chishiki AI Graduate Fellowship. After a competitive review, the following five graduate researchers have been selected to join the Chishiki AI cohort:
+
+Dibakar Roy Sarkar, Johns Hopkins University
+Safe AI-Enabled Real-Time Control of Hydraulic Fracturing via Neural Operator Surrogates and Spectral Safety Projection
+
+Taiwo A. Adebiyi, University of Houston
+Trustworthy Adaptive Experimentation for Civil-Engineering Digital Twins
+
+Melis Fidansoy, University of California, Los Angeles
+AI-SLIDE — An Artificial Intelligence Assisted Spatiotemporal Landslide and Debris-flow Risk Assessment Tool
+
+Jung-Hoon Cho, Massachusetts Institute of Technology
+Auditable Engagement Design for Participation Bias in Transportation Planning
+
+Sai Krishna, University of Georgia
+Collaborative Spatial Intelligence in Multi-Robot Systems for Civil Infrastructure
+
+The 2026 cohort spans a remarkable breadth of civil and environmental engineering challenges — from real-time control of subsurface systems and uncertainty-aware digital twins, to AI-assisted hazard modeling, transparent and auditable transportation planning, and resilient multi-robot autonomy for infrastructure inspection and disaster response. What unites them is a shared commitment to AI methods that are rigorous, trustworthy, and grounded in real engineering practice.
+
+Each fellow will receive financial support, mentorship from Chishiki AI faculty and partners, and access to advanced computing resources to accelerate their research. As part of the fellowship, they are also invited to attend the NHERI SPARC program at UT Austin, where travel and lodging will be covered.
+
+You can read each fellow's biography, research statement, and personal reflections on the Chishiki AI website:
+https://www.chishiki-ai.org/awardees/
+
+Please join us in congratulating the 2026 Chishiki AI Fellows. We look forward to sharing their progress over the coming year.
+
+The Chishiki AI Fellowship is supported by the National Science Foundation under Award #2321040 through the Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE) program.
+
+Warm regards,
+Krishna Kumar
+Principal Investigator, Chishiki AI
+The University of Texas at Austin
